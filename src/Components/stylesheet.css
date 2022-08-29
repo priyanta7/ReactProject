@@ -1,0 +1,38 @@
+.body {
+    background-color: aqua;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+  }
+  .image{
+      height: 200pt;
+      width: 400pt;
+  }
+  .button1 {
+    background-color: blueviolet; 
+    color: wheat;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    box-shadow:inset 0 -0.6em 0 -0.35em rgba(0,0,0,0.17);
+    box-sizing: border-box;
+    margin: 20px;
+    
+  }
+  .button2 {
+    background-color:greenyellow; 
+    color: brown;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    box-shadow:inset 0 -0.6em 0 -0.35em rgba(0,0,0,0.17);
+    box-sizing: border-box;
+    margin: 20px;
+  }
